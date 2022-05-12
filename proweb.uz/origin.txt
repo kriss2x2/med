@@ -1,0 +1,44 @@
+Uri: https://proweb.uz/
+File Name: c:\Downloaded Web Sites\proweb.uz\index.htm
+Content Type: text/html
+
+Uri: https://proweb.uz/uz
+File Name: c:\Downloaded Web Sites\proweb.uz\uz.html
+Content Type: text/html
+
+Uri: https://proweb.uz/favicon.svg
+File Name: c:\Downloaded Web Sites\proweb.uz\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://proweb.uz/css/app.d3d1bd37.css
+File Name: c:\Downloaded Web Sites\proweb.uz\css\app.d3d1bd37.css
+Content Type: text/css
+
+Uri: https://proweb.uz/css/chunk-vendors.e0e6984c.css
+File Name: c:\Downloaded Web Sites\proweb.uz\css\chunk-vendors.e0e6984c.css
+Content Type: text/css
+
+Uri: https://proweb.uz/js/app.41cc09c0.js
+File Name: c:\Downloaded Web Sites\proweb.uz\js\app.41cc09c0.js
+Content Type: application/x-javascript
+
+Uri: https://proweb.uz/js/chunk-vendors.7df688b7.js
+File Name: c:\Downloaded Web Sites\proweb.uz\js\chunk-vendors.7df688b7.js
+Content Type: application/x-javascript
+
+Uri: https://proweb.uz/img/background.00f8a5be.webp
+File Name: c:\Downloaded Web Sites\proweb.uz\img\background.00f8a5be.webp
+Content Type: image/webp
+
+Uri: https://proweb.uz/fonts/icomoon.6c0f42a3.ttf
+File Name: c:\Downloaded Web Sites\proweb.uz\fonts\icomoon.6c0f42a3.bin
+Content Type: application/octet-stream
+
+Uri: https://proweb.uz/fonts/icomoon.c913e9c7.woff
+File Name: c:\Downloaded Web Sites\proweb.uz\fonts\icomoon.c913e9c7.woff
+Content Type: application/font-woff
+
+Uri: https://proweb.uz/img/icomoon.c48862b1.svg
+File Name: c:\Downloaded Web Sites\proweb.uz\img\icomoon.c48862b1.svg
+Content Type: image/svg+xml
+
